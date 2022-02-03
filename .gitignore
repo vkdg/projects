@@ -26,4 +26,5 @@ package.json
 /public
 /scripts
 /src
+/build
 yarn.lock
