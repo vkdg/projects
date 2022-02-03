@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.2a7010df.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.011ab874.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.9d4e19df.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.bf455e8f.js",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
+    "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
     "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
     "static/media/Worksansmedium.ttf": "https://vkdg.github.io/projects/static/media/Worksansmedium.2f9057b973e5000d508a.ttf",
     "static/media/Worksanssemibold.ttf": "https://vkdg.github.io/projects/static/media/Worksanssemibold.72a62bd30d460f4c8506.ttf",
@@ -33,12 +34,13 @@
     "static/media/Worksans.woff2": "https://vkdg.github.io/projects/static/media/Worksans.d596be7306c02c91d578.woff2",
     "static/media/bello-logo.svg": "https://vkdg.github.io/projects/static/media/bello-logo.76eb9d9390bfa6254fab.svg",
     "static/media/button-arrow.svg": "https://vkdg.github.io/projects/static/media/button-arrow.5c6be840196c627fea39.svg",
+    "static/media/button-arrow-blue.svg": "https://vkdg.github.io/projects/static/media/button-arrow-blue.80fe06d78de77c9dc276.svg",
     "index.html": "https://vkdg.github.io/projects/index.html",
-    "main.2a7010df.css.map": "https://vkdg.github.io/projects/static/css/main.2a7010df.css.map",
-    "main.011ab874.js.map": "https://vkdg.github.io/projects/static/js/main.011ab874.js.map"
+    "main.9d4e19df.css.map": "https://vkdg.github.io/projects/static/css/main.9d4e19df.css.map",
+    "main.bf455e8f.js.map": "https://vkdg.github.io/projects/static/js/main.bf455e8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a7010df.css",
-    "static/js/main.011ab874.js"
+    "static/css/main.9d4e19df.css",
+    "static/js/main.bf455e8f.js"
   ]
 }
