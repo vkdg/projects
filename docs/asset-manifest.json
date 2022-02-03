@@ -1,14 +1,44 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.de22e2b6.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.b0184343.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.2a7010df.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.011ab874.js",
+    "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
+    "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
+    "static/media/Worksansmedium.ttf": "https://vkdg.github.io/projects/static/media/Worksansmedium.2f9057b973e5000d508a.ttf",
+    "static/media/Worksanssemibold.ttf": "https://vkdg.github.io/projects/static/media/Worksanssemibold.72a62bd30d460f4c8506.ttf",
+    "static/media/Worksansbold.ttf": "https://vkdg.github.io/projects/static/media/Worksansbold.b3cc81c0cc95c7c88658.ttf",
+    "static/media/Worksansblack.ttf": "https://vkdg.github.io/projects/static/media/Worksansblack.e932fc839d8432741096.ttf",
+    "static/media/Worksanslight.ttf": "https://vkdg.github.io/projects/static/media/Worksanslight.c6ed3ba7a8103f443194.ttf",
+    "static/media/Worksans.ttf": "https://vkdg.github.io/projects/static/media/Worksans.2d69ff375fffd6c293da.ttf",
+    "static/media/Worksansextralight.ttf": "https://vkdg.github.io/projects/static/media/Worksansextralight.6477c9459b237cfc60c9.ttf",
+    "static/media/Worksansthin.ttf": "https://vkdg.github.io/projects/static/media/Worksansthin.45e6d43ad2e7af70d891.ttf",
+    "static/media/Worksansextrabold.woff": "https://vkdg.github.io/projects/static/media/Worksansextrabold.08d5cdf8f0dc82a8dffa.woff",
+    "static/media/Worksansmedium.woff": "https://vkdg.github.io/projects/static/media/Worksansmedium.40ff2c7f10fb2eea1829.woff",
+    "static/media/Worksansbold.woff": "https://vkdg.github.io/projects/static/media/Worksansbold.23f635643f36084b1e93.woff",
+    "static/media/Worksanssemibold.woff": "https://vkdg.github.io/projects/static/media/Worksanssemibold.d9c4f9aaafbd462b0836.woff",
+    "static/media/Worksanslight.woff": "https://vkdg.github.io/projects/static/media/Worksanslight.d8117b5faa272708b66e.woff",
+    "static/media/Worksansblack.woff": "https://vkdg.github.io/projects/static/media/Worksansblack.c09eb2148763f0b63ebc.woff",
+    "static/media/Worksansextralight.woff": "https://vkdg.github.io/projects/static/media/Worksansextralight.e7f8c6296d0218f7f703.woff",
+    "static/media/Worksansthin.woff": "https://vkdg.github.io/projects/static/media/Worksansthin.af570bcac734a76d1598.woff",
+    "static/media/Worksans.woff": "https://vkdg.github.io/projects/static/media/Worksans.35b800445e1c251b52fe.woff",
+    "static/media/Worksansextrabold.woff2": "https://vkdg.github.io/projects/static/media/Worksansextrabold.1daadecd6d40ed27fbd4.woff2",
+    "static/media/Worksansbold.woff2": "https://vkdg.github.io/projects/static/media/Worksansbold.1300eedaa6019932ee1a.woff2",
+    "static/media/Worksansmedium.woff2": "https://vkdg.github.io/projects/static/media/Worksansmedium.69ab0396ffd226c0e25f.woff2",
+    "static/media/Worksanssemibold.woff2": "https://vkdg.github.io/projects/static/media/Worksanssemibold.88b75eca350289a81672.woff2",
+    "static/media/Worksansblack.woff2": "https://vkdg.github.io/projects/static/media/Worksansblack.eabbd650101d9daa0c1c.woff2",
+    "static/media/Worksanslight.woff2": "https://vkdg.github.io/projects/static/media/Worksanslight.7a58ba35df409b8eb4fc.woff2",
+    "static/media/Worksansthin.woff2": "https://vkdg.github.io/projects/static/media/Worksansthin.b09f9f0cf0d5f9c393f4.woff2",
+    "static/media/Worksansextralight.woff2": "https://vkdg.github.io/projects/static/media/Worksansextralight.4656b62bba601d7c4d0f.woff2",
     "static/media/NotFound.svg": "https://vkdg.github.io/projects/static/media/NotFound.4e2e3e62d39eb84268d6.svg",
+    "static/media/Worksans.woff2": "https://vkdg.github.io/projects/static/media/Worksans.d596be7306c02c91d578.woff2",
+    "static/media/bello-logo.svg": "https://vkdg.github.io/projects/static/media/bello-logo.76eb9d9390bfa6254fab.svg",
+    "static/media/button-arrow.svg": "https://vkdg.github.io/projects/static/media/button-arrow.5c6be840196c627fea39.svg",
     "index.html": "https://vkdg.github.io/projects/index.html",
-    "main.de22e2b6.css.map": "https://vkdg.github.io/projects/static/css/main.de22e2b6.css.map",
-    "main.b0184343.js.map": "https://vkdg.github.io/projects/static/js/main.b0184343.js.map"
+    "main.2a7010df.css.map": "https://vkdg.github.io/projects/static/css/main.2a7010df.css.map",
+    "main.011ab874.js.map": "https://vkdg.github.io/projects/static/js/main.011ab874.js.map"
   },
   "entrypoints": [
-    "static/css/main.de22e2b6.css",
-    "static/js/main.b0184343.js"
+    "static/css/main.2a7010df.css",
+    "static/js/main.011ab874.js"
   ]
 }
