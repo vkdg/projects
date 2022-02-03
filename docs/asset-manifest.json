@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/docs/static/css/main.4e3d22a8.css",
-    "main.js": "https://vkdg.github.io/projects/docs/static/js/main.4d38b96f.js",
-    "static/media/NotFound.svg": "https://vkdg.github.io/projects/docs/static/media/NotFound.4e2e3e62d39eb84268d6.svg",
-    "index.html": "https://vkdg.github.io/projects/docs/index.html",
-    "main.4e3d22a8.css.map": "https://vkdg.github.io/projects/docs/static/css/main.4e3d22a8.css.map",
-    "main.4d38b96f.js.map": "https://vkdg.github.io/projects/docs/static/js/main.4d38b96f.js.map"
+    "main.css": "https://vkdg.github.io/projects/static/css/main.a0cc27bb.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.58203e06.js",
+    "static/media/NotFound.svg": "https://vkdg.github.io/projects/static/media/NotFound.4e2e3e62d39eb84268d6.svg",
+    "index.html": "https://vkdg.github.io/projects/index.html",
+    "main.a0cc27bb.css.map": "https://vkdg.github.io/projects/static/css/main.a0cc27bb.css.map",
+    "main.58203e06.js.map": "https://vkdg.github.io/projects/static/js/main.58203e06.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e3d22a8.css",
-    "static/js/main.4d38b96f.js"
+    "static/css/main.a0cc27bb.css",
+    "static/js/main.58203e06.js"
   ]
 }
