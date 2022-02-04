@@ -3,7 +3,6 @@ Open project root in https://vkdg.github.io/projects/
 
 ### Projects Pages
 
-* [Example](https://vkdg.github.io/projects/#/example/)
 * [Bello](https://vkdg.github.io/projects/#/bello/)
 
 ### Dependencies 
@@ -11,4 +10,5 @@ Open project root in https://vkdg.github.io/projects/
 * react-router-dom
 * create-react-app
 * sass
+* fontawesome
 * github pages
