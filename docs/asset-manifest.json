@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.27611dc0.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.2b5c45c2.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.a620d49a.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.69f606cf.js",
     "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
+    "static/media/projects-bello.jpg": "https://vkdg.github.io/projects/static/media/projects-bello.8e1784a940b58fda33ea.jpg",
     "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
     "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
     "static/media/Worksansmedium.ttf": "https://vkdg.github.io/projects/static/media/Worksansmedium.2f9057b973e5000d508a.ttf",
@@ -45,11 +46,11 @@
     "static/media/social-tiktok.svg": "https://vkdg.github.io/projects/static/media/social-tiktok.8619bbca2b8f719c4233.svg",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.27611dc0.css.map": "https://vkdg.github.io/projects/static/css/main.27611dc0.css.map",
-    "main.2b5c45c2.js.map": "https://vkdg.github.io/projects/static/js/main.2b5c45c2.js.map"
+    "main.a620d49a.css.map": "https://vkdg.github.io/projects/static/css/main.a620d49a.css.map",
+    "main.69f606cf.js.map": "https://vkdg.github.io/projects/static/js/main.69f606cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.27611dc0.css",
-    "static/js/main.2b5c45c2.js"
+    "static/css/main.a620d49a.css",
+    "static/js/main.69f606cf.js"
   ]
 }
