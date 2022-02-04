@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.05eab2c2.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.a3527a75.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.5359e6f7.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.81126335.js",
+    "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
     "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
     "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
@@ -32,6 +33,7 @@
     "static/media/Worksansextralight.woff2": "https://vkdg.github.io/projects/static/media/Worksansextralight.4656b62bba601d7c4d0f.woff2",
     "static/media/NotFound.svg": "https://vkdg.github.io/projects/static/media/NotFound.4e2e3e62d39eb84268d6.svg",
     "static/media/Worksans.woff2": "https://vkdg.github.io/projects/static/media/Worksans.d596be7306c02c91d578.woff2",
+    "static/media/dots.svg": "https://vkdg.github.io/projects/static/media/dots.2a7f4d06172d46b62d45.svg",
     "static/media/bello-logo.svg": "https://vkdg.github.io/projects/static/media/bello-logo.76eb9d9390bfa6254fab.svg",
     "static/media/social-instagram.svg": "https://vkdg.github.io/projects/static/media/social-instagram.56cc43d1f0866519945d.svg",
     "static/media/button-arrow.svg": "https://vkdg.github.io/projects/static/media/button-arrow.5c6be840196c627fea39.svg",
@@ -41,11 +43,11 @@
     "index.html": "https://vkdg.github.io/projects/index.html",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.05eab2c2.css.map": "https://vkdg.github.io/projects/static/css/main.05eab2c2.css.map",
-    "main.a3527a75.js.map": "https://vkdg.github.io/projects/static/js/main.a3527a75.js.map"
+    "main.5359e6f7.css.map": "https://vkdg.github.io/projects/static/css/main.5359e6f7.css.map",
+    "main.81126335.js.map": "https://vkdg.github.io/projects/static/js/main.81126335.js.map"
   },
   "entrypoints": [
-    "static/css/main.05eab2c2.css",
-    "static/js/main.a3527a75.js"
+    "static/css/main.5359e6f7.css",
+    "static/js/main.81126335.js"
   ]
 }
