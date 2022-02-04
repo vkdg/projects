@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.5b8a6b9b.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.372d7949.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.27611dc0.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.2b5c45c2.js",
     "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
     "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
@@ -14,10 +14,12 @@
     "static/media/Worksans.ttf": "https://vkdg.github.io/projects/static/media/Worksans.2d69ff375fffd6c293da.ttf",
     "static/media/Worksansextralight.ttf": "https://vkdg.github.io/projects/static/media/Worksansextralight.6477c9459b237cfc60c9.ttf",
     "static/media/Worksansthin.ttf": "https://vkdg.github.io/projects/static/media/Worksansthin.45e6d43ad2e7af70d891.ttf",
+    "static/media/safehands-umbrella.png": "https://vkdg.github.io/projects/static/media/safehands-umbrella.1ec655d89aec457f46b2.png",
     "static/media/Worksansextrabold.woff": "https://vkdg.github.io/projects/static/media/Worksansextrabold.08d5cdf8f0dc82a8dffa.woff",
     "static/media/Worksansmedium.woff": "https://vkdg.github.io/projects/static/media/Worksansmedium.40ff2c7f10fb2eea1829.woff",
     "static/media/Worksansbold.woff": "https://vkdg.github.io/projects/static/media/Worksansbold.23f635643f36084b1e93.woff",
     "static/media/Worksanssemibold.woff": "https://vkdg.github.io/projects/static/media/Worksanssemibold.d9c4f9aaafbd462b0836.woff",
+    "static/media/safehands-dog.png": "https://vkdg.github.io/projects/static/media/safehands-dog.eec04178200256d13c86.png",
     "static/media/Worksanslight.woff": "https://vkdg.github.io/projects/static/media/Worksanslight.d8117b5faa272708b66e.woff",
     "static/media/Worksansblack.woff": "https://vkdg.github.io/projects/static/media/Worksansblack.c09eb2148763f0b63ebc.woff",
     "static/media/Worksansextralight.woff": "https://vkdg.github.io/projects/static/media/Worksansextralight.e7f8c6296d0218f7f703.woff",
@@ -43,11 +45,11 @@
     "static/media/social-tiktok.svg": "https://vkdg.github.io/projects/static/media/social-tiktok.8619bbca2b8f719c4233.svg",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.5b8a6b9b.css.map": "https://vkdg.github.io/projects/static/css/main.5b8a6b9b.css.map",
-    "main.372d7949.js.map": "https://vkdg.github.io/projects/static/js/main.372d7949.js.map"
+    "main.27611dc0.css.map": "https://vkdg.github.io/projects/static/css/main.27611dc0.css.map",
+    "main.2b5c45c2.js.map": "https://vkdg.github.io/projects/static/js/main.2b5c45c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b8a6b9b.css",
-    "static/js/main.372d7949.js"
+    "static/css/main.27611dc0.css",
+    "static/js/main.2b5c45c2.js"
   ]
 }
