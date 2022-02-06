@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.ab4eab3a.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.a05fbfa9.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.c9173301.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.7dc8cd41.js",
     "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
     "static/media/learningcenter-image.jpg": "https://vkdg.github.io/projects/static/media/learningcenter-image.b33eb1821f6c4b7ae7eb.jpg",
     "static/media/projects-bello.jpg": "https://vkdg.github.io/projects/static/media/projects-bello.8e1784a940b58fda33ea.jpg",
     "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
+    "static/media/getting-image-1.png": "https://vkdg.github.io/projects/static/media/getting-image-1.c863860dbc96b1bd06b5.png",
     "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
     "static/media/Worksansmedium.ttf": "https://vkdg.github.io/projects/static/media/Worksansmedium.2f9057b973e5000d508a.ttf",
     "static/media/Worksanssemibold.ttf": "https://vkdg.github.io/projects/static/media/Worksanssemibold.72a62bd30d460f4c8506.ttf",
@@ -31,6 +32,7 @@
     "static/media/Worksansbold.woff2": "https://vkdg.github.io/projects/static/media/Worksansbold.1300eedaa6019932ee1a.woff2",
     "static/media/Worksansmedium.woff2": "https://vkdg.github.io/projects/static/media/Worksansmedium.69ab0396ffd226c0e25f.woff2",
     "static/media/Worksanssemibold.woff2": "https://vkdg.github.io/projects/static/media/Worksanssemibold.88b75eca350289a81672.woff2",
+    "static/media/getting-image-2.png": "https://vkdg.github.io/projects/static/media/getting-image-2.a893cb33003664201f77.png",
     "static/media/Worksansblack.woff2": "https://vkdg.github.io/projects/static/media/Worksansblack.eabbd650101d9daa0c1c.woff2",
     "static/media/Worksanslight.woff2": "https://vkdg.github.io/projects/static/media/Worksanslight.7a58ba35df409b8eb4fc.woff2",
     "static/media/Worksansthin.woff2": "https://vkdg.github.io/projects/static/media/Worksansthin.b09f9f0cf0d5f9c393f4.woff2",
@@ -46,17 +48,21 @@
     "static/media/social-instagram.svg": "https://vkdg.github.io/projects/static/media/social-instagram.56cc43d1f0866519945d.svg",
     "static/media/button-arrow.svg": "https://vkdg.github.io/projects/static/media/button-arrow.5c6be840196c627fea39.svg",
     "static/media/button-arrow-blue.svg": "https://vkdg.github.io/projects/static/media/button-arrow-blue.80fe06d78de77c9dc276.svg",
+    "static/media/button-arrow-card-4.svg": "https://vkdg.github.io/projects/static/media/button-arrow-card-4.fc8bc6a17854839d158e.svg",
+    "static/media/button-arrow-card-1.svg": "https://vkdg.github.io/projects/static/media/button-arrow-card-1.bb683157464f8583217c.svg",
+    "static/media/button-arrow-card-2.svg": "https://vkdg.github.io/projects/static/media/button-arrow-card-2.9021feac634dd5065a52.svg",
+    "static/media/button-arrow-card-3.svg": "https://vkdg.github.io/projects/static/media/button-arrow-card-3.96a71e2d861bc28db513.svg",
     "static/media/social-youtube.svg": "https://vkdg.github.io/projects/static/media/social-youtube.a8862dd654d06fdd74a5.svg",
     "index.html": "https://vkdg.github.io/projects/index.html",
     "static/media/social-tiktok.svg": "https://vkdg.github.io/projects/static/media/social-tiktok.8619bbca2b8f719c4233.svg",
     "static/media/how-it-works-line.svg": "https://vkdg.github.io/projects/static/media/how-it-works-line.6d54f3647130495f331f.svg",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.ab4eab3a.css.map": "https://vkdg.github.io/projects/static/css/main.ab4eab3a.css.map",
-    "main.a05fbfa9.js.map": "https://vkdg.github.io/projects/static/js/main.a05fbfa9.js.map"
+    "main.c9173301.css.map": "https://vkdg.github.io/projects/static/css/main.c9173301.css.map",
+    "main.7dc8cd41.js.map": "https://vkdg.github.io/projects/static/js/main.7dc8cd41.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4eab3a.css",
-    "static/js/main.a05fbfa9.js"
+    "static/css/main.c9173301.css",
+    "static/js/main.7dc8cd41.js"
   ]
 }
