@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.969a47ff.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.9cc7181d.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.ab4eab3a.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.a05fbfa9.js",
     "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
+    "static/media/learningcenter-image.jpg": "https://vkdg.github.io/projects/static/media/learningcenter-image.b33eb1821f6c4b7ae7eb.jpg",
     "static/media/projects-bello.jpg": "https://vkdg.github.io/projects/static/media/projects-bello.8e1784a940b58fda33ea.jpg",
     "static/media/secureblock-image.jpg": "https://vkdg.github.io/projects/static/media/secureblock-image.7dd50de13ac6f4a1a338.jpg",
     "static/media/Worksansextrabold.ttf": "https://vkdg.github.io/projects/static/media/Worksansextrabold.06c524ebecd167d82639.ttf",
@@ -37,6 +38,10 @@
     "static/media/NotFound.svg": "https://vkdg.github.io/projects/static/media/NotFound.4e2e3e62d39eb84268d6.svg",
     "static/media/Worksans.woff2": "https://vkdg.github.io/projects/static/media/Worksans.d596be7306c02c91d578.woff2",
     "static/media/dots.svg": "https://vkdg.github.io/projects/static/media/dots.2a7f4d06172d46b62d45.svg",
+    "static/media/how-it-works-2.svg": "https://vkdg.github.io/projects/static/media/how-it-works-2.4ed8d1efe61ebc0b6b67.svg",
+    "static/media/how-it-works-line-end.svg": "https://vkdg.github.io/projects/static/media/how-it-works-line-end.fb99ff550ae0d9c3f3b2.svg",
+    "static/media/how-it-works-3.svg": "https://vkdg.github.io/projects/static/media/how-it-works-3.e5be173ac99c37e45802.svg",
+    "static/media/how-it-works-1.svg": "https://vkdg.github.io/projects/static/media/how-it-works-1.8065476e5ce6f00ca7ab.svg",
     "static/media/bello-logo.svg": "https://vkdg.github.io/projects/static/media/bello-logo.76eb9d9390bfa6254fab.svg",
     "static/media/social-instagram.svg": "https://vkdg.github.io/projects/static/media/social-instagram.56cc43d1f0866519945d.svg",
     "static/media/button-arrow.svg": "https://vkdg.github.io/projects/static/media/button-arrow.5c6be840196c627fea39.svg",
@@ -44,13 +49,14 @@
     "static/media/social-youtube.svg": "https://vkdg.github.io/projects/static/media/social-youtube.a8862dd654d06fdd74a5.svg",
     "index.html": "https://vkdg.github.io/projects/index.html",
     "static/media/social-tiktok.svg": "https://vkdg.github.io/projects/static/media/social-tiktok.8619bbca2b8f719c4233.svg",
+    "static/media/how-it-works-line.svg": "https://vkdg.github.io/projects/static/media/how-it-works-line.6d54f3647130495f331f.svg",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.969a47ff.css.map": "https://vkdg.github.io/projects/static/css/main.969a47ff.css.map",
-    "main.9cc7181d.js.map": "https://vkdg.github.io/projects/static/js/main.9cc7181d.js.map"
+    "main.ab4eab3a.css.map": "https://vkdg.github.io/projects/static/css/main.ab4eab3a.css.map",
+    "main.a05fbfa9.js.map": "https://vkdg.github.io/projects/static/js/main.a05fbfa9.js.map"
   },
   "entrypoints": [
-    "static/css/main.969a47ff.css",
-    "static/js/main.9cc7181d.js"
+    "static/css/main.ab4eab3a.css",
+    "static/js/main.a05fbfa9.js"
   ]
 }
