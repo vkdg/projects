@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://vkdg.github.io/projects/static/css/main.0251136b.css",
-    "main.js": "https://vkdg.github.io/projects/static/js/main.f531ba0c.js",
+    "main.css": "https://vkdg.github.io/projects/static/css/main.2ec08f1f.css",
+    "main.js": "https://vkdg.github.io/projects/static/js/main.60a9ceef.js",
     "static/media/promo-1.svg": "https://vkdg.github.io/projects/static/media/promo-1.0a17994bccc1f5c4a1eea7d945df1a6c.svg",
     "static/media/meetsservice-image.jpg": "https://vkdg.github.io/projects/static/media/meetsservice-image.637c2e64cc0be1dbd073.jpg",
     "static/media/hero.png": "https://vkdg.github.io/projects/static/media/hero.1a4db68b99a8022836a5.png",
@@ -145,6 +145,7 @@
     "static/media/account.svg": "https://vkdg.github.io/projects/static/media/account.90c786b08065989b53d0.svg",
     "static/media/social-youtube.svg": "https://vkdg.github.io/projects/static/media/social-youtube.a8862dd654d06fdd74a5.svg",
     "static/media/filter.svg": "https://vkdg.github.io/projects/static/media/filter.f0a372347fd298357767.svg",
+    "static/media/close-basket.svg": "https://vkdg.github.io/projects/static/media/close-basket.b4e1a3b0c468e95fce26.svg",
     "index.html": "https://vkdg.github.io/projects/index.html",
     "static/media/social-tiktok.svg": "https://vkdg.github.io/projects/static/media/social-tiktok.8619bbca2b8f719c4233.svg",
     "static/media/categories-4.svg": "https://vkdg.github.io/projects/static/media/categories-4.2c3a16dce3743953361affea535bfd44.svg",
@@ -153,11 +154,11 @@
     "static/media/how-it-works-line.svg": "https://vkdg.github.io/projects/static/media/how-it-works-line.6d54f3647130495f331f.svg",
     "static/media/social-linkedin.svg": "https://vkdg.github.io/projects/static/media/social-linkedin.772adc91a8457dac3b33.svg",
     "static/media/social-facebook.svg": "https://vkdg.github.io/projects/static/media/social-facebook.f47fe7dba5f7594206ed.svg",
-    "main.0251136b.css.map": "https://vkdg.github.io/projects/static/css/main.0251136b.css.map",
-    "main.f531ba0c.js.map": "https://vkdg.github.io/projects/static/js/main.f531ba0c.js.map"
+    "main.2ec08f1f.css.map": "https://vkdg.github.io/projects/static/css/main.2ec08f1f.css.map",
+    "main.60a9ceef.js.map": "https://vkdg.github.io/projects/static/js/main.60a9ceef.js.map"
   },
   "entrypoints": [
-    "static/css/main.0251136b.css",
-    "static/js/main.f531ba0c.js"
+    "static/css/main.2ec08f1f.css",
+    "static/js/main.60a9ceef.js"
   ]
 }
